@@ -11,6 +11,8 @@ To run one of the algorithms' CLI, run
 ./algo-rhythm/<algorithm-name>.py
 ```
 
+TODO update README
+
 # License
 
 This repository is licensed under the terms of [MIT License](LICENSE).
