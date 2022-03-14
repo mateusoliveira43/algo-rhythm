@@ -1,6 +1,7 @@
 import argparse
 import sys
 
+# TODO git submodule?
 USAGE_PREFIX = 'Usage:\n  [python|python3] '
 EPILOG = 'Algo-rhythm \U0001F3B5'
 POSITIONALS_TITLE = 'Required options'
